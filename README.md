@@ -13,3 +13,5 @@
 * Statistical Inference
 
 * Regression Models
+
+Git is fun, git is easy. Thanks Linus!
